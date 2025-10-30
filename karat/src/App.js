@@ -12,6 +12,7 @@ import ConditionalRendering from './Components/ConditionalRendering';
 import ConditionalRendering1 from './Components/ConditionalRendering1';
 import Key from './Components/Key';
 import Key1 from './Components/Key1';
+import Form from './Components/Form';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       <ConditionalRendering1 />
       <Key />
       <Key1 />
+      <Form />
     </div>
   );
 }
